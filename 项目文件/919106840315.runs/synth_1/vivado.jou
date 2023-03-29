@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Feb 27 13:58:37 2023
+# Process ID: 3592
+# Current directory: E:/919106840315/919106840315.runs/synth_1
+# Command line: vivado.exe -log ps919106840315_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ps919106840315_wrapper.tcl
+# Log file: E:/919106840315/919106840315.runs/synth_1/ps919106840315_wrapper.vds
+# Journal file: E:/919106840315/919106840315.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ps919106840315_wrapper.tcl -notrace

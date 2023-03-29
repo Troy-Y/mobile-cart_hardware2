@@ -1,0 +1,1761 @@
+14:13:55 **** Build of project standalone_bsp_0 ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_9/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_0/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v4_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_0/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v7_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ttcps_v3_9/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling coresightps_dcc"
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_9/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_0/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v4_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_0/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v7_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling standalone"
+In file included from usleep.c:56:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xil_sleeptimer.c:51:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:49:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:53:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v3_9/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling ttcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling xadcps"
+'Finished building libraries'
+14:14:41 **** Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19064	   1144	  22568	  42776	   a718	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+14:23:16 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  21724	   1144	  22568	  45436	   b17c	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+14:24:50 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+14:51:03 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  21788	   1144	  22568	  45500	   b1bc	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+14:54:04 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  21852	   1144	  22568	  45564	   b1fc	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+14:58:27 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:190:10: warning: this 'for' clause does not guard... [-Wmisleading-indentation]
+          for(int i=0;i<30;i++)
+          ^~~
+../src/helloworld.c:192:14: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'for'
+              delay(1000,500,50);
+              ^~~~~
+../src/helloworld.c:193:10: warning: this 'for' clause does not guard... [-Wmisleading-indentation]
+          for(int i=0;i<30;i++)
+          ^~~
+../src/helloworld.c:195:14: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'for'
+              delay(1000,500,50);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  21980	   1144	  22568	  45692	   b27c	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+15:00:31 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  21532	   1144	  22568	  45244	   b0bc	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+15:03:11 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  21532	   1144	  22568	  45244	   b0bc	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+15:32:30 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22240	   1144	  22568	  45952	   b380	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+15:53:00 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22380	   1144	  22568	  46092	   b40c	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+15:59:39 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22452	   1144	  22568	  46164	   b454	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+16:03:49 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22344	   1144	  22568	  46056	   b3e8	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+16:06:40 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22344	   1144	  22568	  46056	   b3e8	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+16:09:13 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22344	   1144	  22568	  46056	   b3e8	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+16:16:01 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22304	   1144	  22568	  46016	   b3c0	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+16:22:29 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22344	   1144	  22568	  46056	   b3e8	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+16:22:36 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+16:25:21 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22344	   1144	  22568	  46056	   b3e8	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+16:27:54 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22344	   1144	  22568	  46056	   b3e8	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+16:33:35 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:222:10: warning: this 'for' clause does not guard... [-Wmisleading-indentation]
+          for(int i=0;i<30;i++)
+          ^~~
+../src/helloworld.c:224:19: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'for'
+                   delay(1000,500,50);
+                   ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22452	   1144	  22568	  46164	   b454	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+16:35:46 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22452	   1144	  22568	  46164	   b454	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+16:39:27 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22452	   1144	  22568	  46164	   b454	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+16:43:31 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22452	   1144	  22568	  46164	   b454	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+16:46:21 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22452	   1144	  22568	  46164	   b454	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+16:50:42 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22388	   1144	  22568	  46100	   b414	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+08:22:52 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22388	   1144	  22568	  46100	   b414	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+08:32:44 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22388	   1144	  22568	  46100	   b414	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+08:40:34 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22580	   1144	  22568	  46292	   b4d4	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+08:44:00 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22580	   1144	  22568	  46292	   b4d4	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+08:46:37 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22452	   1144	  22568	  46164	   b454	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+08:51:07 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22708	   1144	  22568	  46420	   b554	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+08:52:24 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22708	   1144	  22568	  46420	   b554	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+08:55:00 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22708	   1144	  22568	  46420	   b554	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+08:56:39 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22708	   1144	  22568	  46420	   b554	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+10:31:14 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c:267:14: error: label at end of compound statement
+         case 0x80:
+              ^~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:358:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+10:31:21 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c:267:14: error: label at end of compound statement
+         case 0x80:
+              ^~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:358:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+10:32:42 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:358:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23104	   1144	  22568	  46816	   b6e0	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+10:33:54 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:358:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23104	   1144	  22568	  46816	   b6e0	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+10:33:59 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+10:35:53 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:358:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23100	   1144	  22568	  46812	   b6dc	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+10:35:56 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+10:37:30 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+10:50:04 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:359:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23076	   1144	  22568	  46788	   b6c4	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+10:50:05 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+10:51:46 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:359:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23084	   1144	  22568	  46796	   b6cc	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+10:51:51 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:359:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23084	   1144	  22568	  46796	   b6cc	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+10:51:55 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+10:54:30 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23012	   1144	  22568	  46724	   b684	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+10:56:45 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:359:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23088	   1144	  22568	  46800	   b6d0	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+10:58:35 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:361:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23120	   1144	  22568	  46832	   b6f0	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+10:58:38 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+11:00:58 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:361:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23120	   1144	  22568	  46832	   b6f0	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+11:01:01 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+11:10:21 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:361:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23120	   1144	  22568	  46832	   b6f0	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+11:10:23 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+13:34:07 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+13:37:49 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:361:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23120	   1144	  22568	  46832	   b6f0	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+13:40:37 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:363:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23136	   1144	  22568	  46848	   b700	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+13:40:50 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+13:43:19 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:366:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23184	   1144	  22568	  46896	   b730	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+13:43:35 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:366:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23184	   1144	  22568	  46896	   b730	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+13:43:38 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+13:44:42 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:366:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23184	   1144	  22568	  46896	   b730	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+13:44:45 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:366:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23184	   1144	  22568	  46896	   b730	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+13:44:46 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+13:45:27 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:366:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23184	   1144	  22568	  46896	   b730	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+13:45:41 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:366:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23184	   1144	  22568	  46896	   b730	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+13:45:49 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:366:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23184	   1144	  22568	  46896	   b730	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+13:46:21 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:366:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23184	   1144	  22568	  46896	   b730	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+13:46:22 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+13:47:20 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:367:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23184	   1144	  22568	  46896	   b730	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+13:47:22 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+13:48:13 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:367:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23184	   1144	  22568	  46896	   b730	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+13:48:28 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+13:57:35 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:367:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23184	   1144	  22568	  46896	   b730	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+14:00:41 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:367:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23176	   1144	  22568	  46888	   b728	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+14:01:04 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:367:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23168	   1144	  22568	  46880	   b720	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+14:01:49 **** Auto Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:367:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23168	   1144	  22568	  46880	   b720	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
+14:01:51 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+14:12:02 **** Incremental Build of configuration Debug for project ps919106840315 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:175:14: warning: implicit declaration of function 'xipan' [-Wimplicit-function-declaration]
+              xipan(0);
+              ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:362:6: warning: conflicting types for 'xipan'
+ void xipan(int xi_ID){
+      ^~~~~
+../src/helloworld.c:175:14: note: previous implicit declaration of 'xipan' was here
+              xipan(0);
+              ^~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: ps919106840315.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "ps919106840315.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ps919106840315.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size ps919106840315.elf  |tee "ps919106840315.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23040	   1144	  22568	  46752	   b6a0	ps919106840315.elf
+'Finished building: ps919106840315.elf.size'
+' '
